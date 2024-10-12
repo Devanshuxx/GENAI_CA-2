@@ -1,0 +1,13 @@
+SrNo,Patient_Id,Fever_Mild,Fever_Low,Fever_High,DOB,Cough_Mild,Cough_Low,Cough_High,Cold_Mild,Cold_Low,Cold_High,Other_Symptoms
+1,1,Y,N,N,02-06-1997,N,Y,Y,N,N,Y,Body Ache
+2,2,Y,N,N,28-06-2017,N,Y,Y,N,N,Y,Shivering
+3,3,Y,N,N,24-04-1999,N,Y,Y,N,N,Y,Head Ache
+4,4,Y,N,N,15-11-2016,N,Y,Y,N,N,Y,Nausia
+5,5,Y,N,N,13-11-1985,N,Y,Y,N,N,Y,Sickness
+6,6,Y,N,N,28-12-2018,N,Y,Y,N,N,Y,Vertigo
+7,7,Y,N,N,14-01-2014,N,Y,Y,N,N,Y,Head Ache
+8,8,Y,N,N,08-11-2014,N,Y,Y,N,N,Y,Nausia
+9,9,Y,N,N,24-08-1983,N,Y,Y,N,N,Y,Sickness
+10,10,Y,N,N,01-07-2002,N,Y,Y,N,N,Y,"Vertigo, Nausia"
+11,11,Y,N,N,4-03-2003,N,Y,Y,N,N,Y,Vomitting
+12,12,Y,N,N,11-11-2003,N,Y,Y,N,N,Y,Nose Bleed
